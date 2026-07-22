@@ -9,24 +9,47 @@ Our outreach coordinators are stationed in three cities:
 | 🎓 Boston, MA | 42.3588, -71.0578 |
 | 🍑 Atlanta, GA | 33.7545, -84.3898 |
 
+## Driving Distances Between Cities
+| Route | Distance | Drive Time |
+|-------|----------|-----------|
+| 🚗 Chicago ↔ Boston | ~1,598 mi / 994 mi | ~18.8 hrs |
+| 🚗 Chicago ↔ Atlanta | ~1,100 mi / 684 mi | ~13.3 hrs |
+| 🚗 Boston ↔ Atlanta | ~1,731 mi / 1,075 mi | ~21.3 hrs |
+
+**Key Insight:** Chicago is the closest hub to both other cities, making it the most practical in-person meeting location if only one city can be chosen.
+
 ## Geographic Center
 The centroid of the three coordinator cities is approximately:
 - **Latitude:** 39.33
 - **Longitude:** -81.02
-- **Location:** Parkersburg, WV / Marietta, OH area
+- **Location:** Marietta, OH area (near Parkersburg, WV)
 
-## Recommended Meeting Venue
-We recommend meeting in **Parkersburg, WV** or a nearby hub city, which offers:
-- Central location between all three coordinators
-- Lower accommodation costs compared to major metros
-- Good highway access (I-77 corridor)
-- Mid-sized airport (PKB) for those flying in
+## Recommended Meeting Venue: 🏙️ Chicago, IL
 
-### Alternative: Rotating City Meeting
+Based on driving distances, **Chicago is our recommended primary in-person meeting city**:
+- 📍 Centrally located for **Chicago ↔ Atlanta** drive (~13 hrs, <7 hrs shorter than Boston↔Atlanta)
+- 📍 Major international airport (ORD) with the most flight connections
+- 📍 Lowest accommodation costs among the three cities
+- 📍 Largest selection of accessible meeting venues (coworking spaces, hotels, libraries)
+- 📍 Accessible via I-90, I-94, I-55 — central highway hub
+
+### Best Meeting Venues in Chicago
+Recommended areas to scout:
+- **The Loop / West Loop** — Walkable, many coworking spaces (WeWork, Industrious), hotels
+- **Lincoln Park / DePaul area** — University venues, affordable meeting spaces
+- **West Loop / Fulton Market** — Trendy area with restaurants and open meeting spaces
+
+### Alternative: Charlotte, NC
+If Chicago doesn't work, **Charlotte, NC** is roughly equidistant (~8 hrs from Atlanta, ~9 hrs from Chicago) and offers:
+- CLT airport with many connections
+- Lower costs than Boston
+- Growing coworking scene
+
+## Alternative: Rotating City Meeting
 To keep relationships strong across all three hubs, the team can **rotate** the meeting city:
 
 - **Month 1:** Chicago (serves West & Great Plains outreach)
-- **Month 2:** Boston (serves Northeast outreach)
+- **Month 2:** Boston (serves Northeast outreach)  
 - **Month 3:** Atlanta (serves Southeast outreach)
 
 ## Virtual Meeting Fallback
