@@ -2,7 +2,7 @@
 
 ## Outreach Coordinators
 
-| Name | City | Role | 
+| Name | City | Role |
 |------|------|------|
 | | Chicago | Local coordinator — Midwest region |
 | | Boston | Local coordinator — Northeast region |
